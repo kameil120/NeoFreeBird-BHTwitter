@@ -102,3 +102,11 @@ Just run:
 
 Result: `com.bandarhl.bhtwitter_4.2_iphoneos-arm.deb` inside `packages`.
 
+
+> [!NOTE]  
+> <b>These builds are considered beta</b><br>This repo is meant for NeoFreeBird, which builds this for specific versions of Twitter. You can of course build this for your own app without using the main NeoFreeBird app, but please note your build will not be supported by the NeoFreeBird team if you do.
+
+
+> [!NOTE]  
+> <b>This repo is forked from BHTwitter. It will merge patches upstream to BHTwitter when it's considered mostly done. 
+
